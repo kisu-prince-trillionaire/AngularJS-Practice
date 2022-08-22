@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2022/08/15/02/07/park-7386978_1280.jpg");
+}
+
+.card{
+    display: flex;
+}

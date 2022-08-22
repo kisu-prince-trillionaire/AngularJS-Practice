@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2022/06/12/22/48/futuristic-7258997__480.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cards{
+    display: flex;
+    border: 5px black solid;
+    border-radius: 30%;
+    padding: 20px;
+    margin: 10px;
+}
+
+.card{
+    border: 5px rgb(114, 198, 29) solid;
+    border-radius: 30%;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0.5 0.8;
+}
+
+.jumbotron-body{
+    background-color: bisque;
+    padding: 20px;
+    margin: 10px;
+}
+
+.comments{
+    background-color: rgb(25, 26, 27);
+    border-radius: 20px;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+}
+
+.media{
+    border-radius: 20%;
+}
+
+.media img{
+    width: 100px;
+    height: 100px;
+}
